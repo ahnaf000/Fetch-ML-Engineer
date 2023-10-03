@@ -3,7 +3,8 @@ This is the solution of the take home test for the Fetch Rewards Machine Learnin
 
 
 ## View EDAA Findings and Model Building Details
-Open the notebook located at /src/playground.ipynb directly from your github. 
+Open the notebook to [View the Exploratory Data Analysis Notebook](./src/playground.ipynb)
+
 
 ## Run Dockerized Apps:
 TODO
